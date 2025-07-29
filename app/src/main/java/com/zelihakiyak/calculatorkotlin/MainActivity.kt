@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    fun myMin(view: View){
+    fun mySub(view: View){
         num1 = binding.num1Text.text.toString().toDoubleOrNull()
         num2 = binding.num2Text.text.toString().toDoubleOrNull()
 
