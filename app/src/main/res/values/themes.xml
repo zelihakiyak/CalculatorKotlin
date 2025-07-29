@@ -6,4 +6,6 @@
     </style>
 
     <style name="Theme.CalculatorKotlin" parent="Base.Theme.CalculatorKotlin" />
+
+
 </resources>
